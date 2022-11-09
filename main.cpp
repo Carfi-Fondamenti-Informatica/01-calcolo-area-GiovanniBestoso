@@ -9,9 +9,9 @@ int main(){
  area_quadrato= a*a;
  area_rettangolo= a*b;
  area_trapezio= ((a+b)*c)/2;
- cout<< "area triangolo: "<< area_triangolo <<endl;
- cout<< "area quadrato: "<< area_quadrato<<endl;
- cout<< "area rettangolo: "<< area_rettangolo<<endl;
- cout<< " area trapezio: "<< area_trapezio<<endl;
+ cout<< area_triangolo <<endl;
+ cout<<  area_quadrato<<endl;
+ cout<<  area_rettangolo<<endl;
+ cout<<  area_trapezio<<endl;
   return 0;
 }
